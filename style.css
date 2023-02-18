@@ -7,7 +7,7 @@ h1{
     font-size: 40px;
 
 }
-.highlight{
+.orange-highlight{
     color: orange;
 }
 
@@ -41,5 +41,14 @@ section{
     border-radius: 10px;
     color: white;
     font-weight: 700px;
+
+}
+.single-experiences{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    height: 100%;
+
+
+
 
 }
