@@ -40,15 +40,41 @@ section{
     padding: 10px 20px;
     border-radius: 10px;
     color: white;
-    font-weight: 700px;
+    font-weight: 700px; }
+
+    .single{
+        box-shadow: 10px 10px 40px grey;
+        border-radius: 10px;
+        height: 70%;
+        background-color: white;
+       
+
+
+
+    }
+
+.experience-area{
+    background-image: url(Image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 
 }
-.single-experiences{
-    box-shadow: 10px 10px 40px grey;
-    border-radius: 10px;
-    height: 100%;
+#full{
 
+    border-left:7px solid ;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
 
-
+#baby{
+    border-left:7px solid ;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
 
 }
+
+footer P{
+    text-align: center;
+    font-size: small;
+}
+
